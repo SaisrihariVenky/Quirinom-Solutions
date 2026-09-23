@@ -1,0 +1,6 @@
+{
+  "name": "Qurinom Solutions - Product-First Enterprise Platform",
+  "description": "High-fidelity UI/UX interactive prototype for Qurinom Solutions featuring product discovery, catalog filtering, QHR deep-dive, interactive screenshots, and demo requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
